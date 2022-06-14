@@ -1,2 +1,2 @@
 def hello(event, context):
-    print("Welcome to terraform - himanshu-Home")
+    print("Welcome to terraform - TEST-NEW")
